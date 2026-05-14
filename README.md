@@ -94,10 +94,22 @@ npx -y @modelcontextprotocol/inspector python /ABSOLUTE/PATH/TO/implementation/m
 Here are screenshots of the MCP Server in action using the MCP Inspector:
 
 ### 1. Search Tool
-![Search Tool](assets/demo_search.png)
+**Input:**  
+![Search Tool Input](assets/demo_search.png)
 
-### 2. Insert Tool (Error Handling)
-![Insert Tool](assets/demo_insert.png)
+**Result:**  
+![Search Tool Result](assets/result_demo_search.png)
+
+### 2. Insert Tool (Error Handling / Locking)
+**Input:**  
+![Insert Tool Input](assets/demo_insert.png)
+
+**Result:**  
+![Insert Tool Result](assets/result_demo_insert.png)
 
 ### 3. Aggregate Tool
-![Aggregate Tool](assets/demo_aggregate.png)
+**Input:**  
+![Aggregate Tool Input](assets/demo_aggregate.png)
+
+**Result:**  
+![Aggregate Tool Result](assets/result_demo_aggregate.png)
